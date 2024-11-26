@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 .dcm
-data/cancer/
-data/normal/
+data/DCM
+data/PNG
