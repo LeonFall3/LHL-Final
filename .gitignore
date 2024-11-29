@@ -161,6 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-.dcm
-data/DCM
-data/PNG
+data/jpeg
+data/csv/dicom_info.csv
+data/csv/mass_case_description_test_set.csv
+data/csv/mass_case_description_train_set.csv
+data/csv/meta.csv
