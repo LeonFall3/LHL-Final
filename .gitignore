@@ -166,3 +166,5 @@ data/csv/dicom_info.csv
 data/csv/mass_case_description_test_set.csv
 data/csv/mass_case_description_train_set.csv
 data/csv/meta.csv
+data/csv/calc_case_description_test_set.csv
+data/csv/calc_case_description_train_set.csv
